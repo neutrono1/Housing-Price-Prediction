@@ -1,4 +1,4 @@
-# Housing Value Prediction
+# Housing Price Prediction
 
 This project predicts median house values in California using the **California Housing Prices** dataset from Kaggle.
 
