@@ -74,11 +74,9 @@ dtype: float64
 ##  **Project Structure**
 ```
 ├── main.py
-├── model.pkl
-├── pipeline.pkl
+├── readme.md
 ├── housing.csv
-├── input.csv
-└── output.csv
+
 ```
 
 ---
